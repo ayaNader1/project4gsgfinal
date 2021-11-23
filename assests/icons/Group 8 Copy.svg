@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.001" height="22.001" viewBox="0 0 22.001 22.001">
+  <g id="Group_8_Copy" data-name="Group 8 Copy" transform="translate(0 0)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M3,5V2H0V0H5V5Z" transform="translate(17 0)"/>
+    <path id="Combined_Shape_Copy_2" data-name="Combined Shape Copy 2" d="M3,5V2H0V0H5V5Z" transform="translate(5 22) rotate(180)"/>
+    <path id="Combined_Shape_Copy" data-name="Combined Shape Copy" d="M3,5V2H0V0H5V5Z" transform="translate(0 5) rotate(-90)"/>
+    <path id="Combined_Shape_Copy_3" data-name="Combined Shape Copy 3" d="M3,5V2H0V0H5V5Z" transform="translate(22 17) rotate(90)"/>
+    <g id="Rectangle" transform="translate(5 5)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1">
+      <rect width="5" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+    </g>
+    <g id="Rectangle_Copy_6" data-name="Rectangle Copy 6" transform="translate(5 12)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1">
+      <rect width="5" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+    </g>
+    <g id="Rectangle_Copy_5" data-name="Rectangle Copy 5" transform="translate(12 5)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1">
+      <rect width="5" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+    </g>
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M3.334,5V3.334H5V5ZM0,5V3.334H1.667V5ZM1.667,3.334V1.667H3.334V3.334ZM3.334,1.667V0H5V1.667ZM0,1.667V0H1.667V1.667Z" transform="translate(12 12)"/>
+  </g>
+</svg>
